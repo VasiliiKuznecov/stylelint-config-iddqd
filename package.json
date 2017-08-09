@@ -1,0 +1,22 @@
+{
+  "name": "stylelint-config-iddqd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gogoleff/stylelint-config-iddqd.git"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "stylelint",
+    "config"
+  ],
+  "author": "Maxim Vorontsov <maxie@yandex-team.ru>",
+  "maintainers": [
+    "Maxim Vorontsov <maxie@yandex-team.ru>",
+    "Sergey Gogolev <gogoleff@yandex-team.ru>"
+  ],
+  "license": "MIT"
+}
