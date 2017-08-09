@@ -1,12 +1,12 @@
 # stylelint-config-iddqd
 
-# Установка
+# Install
 
 `npm install stylelint stylelint-order stylelint-config-iddqd`
 
-# Использование
+# Usage
 
-Добавьте в `package.json`:  
+Add new section to the `package.json`:  
 
 ```json
 "stylelint": {
