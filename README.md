@@ -1,10 +1,10 @@
 # stylelint-config-iddqd
 
-# Install
+## Install
 
 `npm install stylelint stylelint-order stylelint-config-iddqd`
 
-# Usage
+## Usage
 
 Add new section to the `package.json`:  
 
