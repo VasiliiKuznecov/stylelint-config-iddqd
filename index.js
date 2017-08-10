@@ -36,7 +36,7 @@ module.exports = {
     // -- Media feature
     "media-feature-name-no-unknown": true,
     // -- At-rule
-    "at-rule-no-unknown":  true,
+    "at-rule-no-unknown": true,
     // -- Comment
     "comment-no-empty": true,
     // -- General / Sheet
@@ -155,7 +155,7 @@ module.exports = {
     "at-rule-name-space-after": "always",
     "at-rule-semicolon-newline-after": "always",
     // -- Comment
-    "comment-empty-line-before": true,
+    "comment-empty-line-before": "always",
     "comment-whitespace-inside": "always",
     // -- General / Sheet
     "indentation": 4,
@@ -165,7 +165,7 @@ module.exports = {
     "no-missing-end-of-source-newline": true,
 
     // - Stylelint order
-    "order/declaration-block-property-groups-structure": [
+    "order/properties-order": [
       {
         "emptyLineBefore": "always",
         "properties": [
