@@ -81,10 +81,11 @@ module.exports = {
     "font-weight-notation": "named-where-possible",
     // -- Function
     "function-comma-newline-after": "always-multi-line",
-    "function-comma-space-after": "always",
+    "function-comma-space-after": "always-single-line",
     "function-max-empty-lines": 0,
     "function-name-case": "lower",
-    "function-parentheses-space-inside": "never",
+    "function-parentheses-newline-inside": "always-multi-line",
+    "function-parentheses-space-inside": "never-single-line",
     "function-url-quotes": "always",
     "function-whitespace-after": "always",
     // -- Number
@@ -100,7 +101,7 @@ module.exports = {
     "value-keyword-case": "lower",
     // -- Value list
     "value-list-comma-newline-after": "always-multi-line",
-    "value-list-comma-space-after": "always",
+    "value-list-comma-space-after": "always-single-line",
     // -- Property
     "property-case": "lower",
     // -- Declaration
